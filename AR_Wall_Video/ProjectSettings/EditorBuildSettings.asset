@@ -5,8 +5,14 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Wall Detection.unity
+    guid: 515388cea1a43b24b822a2804fe98e6b
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e78183a0f7c88b74c8ebf84908b4f21b, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 7275b31462ffac746bca0f816947eb1c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5187487fde2fd5b489f86e39426d2a2b, type: 2}
