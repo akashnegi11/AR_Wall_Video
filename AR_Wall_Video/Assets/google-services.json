@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349657344664",
+    "project_id": "arwalldetection",
+    "storage_bucket": "arwalldetection.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349657344664:android:55b8ecc9aa0ebc06ff7eed",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.AR_Wall_Video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-0jIBFhNKjwI2UZZvdcSRT2iUOcB2T8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
